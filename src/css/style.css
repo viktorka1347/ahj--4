@@ -34,10 +34,6 @@
     background-image: url(../img/mastercard.png);
 }
 
-.maestro {
-    background-image: url(../img/maestro.png);
-}
-
 .amex {
     background-image: url(../img/american_express.png);
 }
@@ -52,14 +48,6 @@
 
 .jcb {
     background-image: url(../img/jcb.png);
-}
-
-.unionpay {
-    background-image: url(../img/unionpay.png);
-}
-
-.mir {
-    background-image: url(../img/mir.png);
 }
 
 .validator-form {
